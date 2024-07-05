@@ -3,5 +3,8 @@ public class SomeProgram {
         System.out.println("We aresdsssadsadsa learning to use Git");
         System.out.println("We will be Gidsadsat experts, soon.");
     }
-        
+    public void manageTheSatelite() {
+        // TODO
+    }
+    }
 }
